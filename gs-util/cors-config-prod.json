@@ -1,0 +1,7 @@
+[
+  {
+    "origin": ["https://app.track-space.com"],
+    "method": ["GET"],
+    "maxAgeSeconds": 3600
+  }
+]

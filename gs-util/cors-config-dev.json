@@ -1,0 +1,7 @@
+[
+  {
+    "origin": ["http://localhost:8081", "https://app.track-space.com", "http://192.168.0.4:8081"],
+    "method": ["GET"],
+    "maxAgeSeconds": 3600
+  }
+]
